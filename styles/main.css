@@ -1,0 +1,15 @@
+
+.header {
+    background-color: chocolate;
+    width: 980px;
+    color:whitesmoke;
+    padding: 50px;
+    text-align: center;
+    height: 200px;
+}
+
+.logo {
+    width: 160px;
+    height: 160px;
+    float: left;
+}
